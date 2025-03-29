@@ -1,0 +1,7 @@
+requests
+beautifulsoup4
+langchain_community
+tqdm
+nest_asyncio
+langchain-text-splitters
+langchain-ollama
