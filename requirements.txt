@@ -5,3 +5,5 @@ tqdm
 nest_asyncio
 langchain-text-splitters
 langchain-ollama
+faiss-cpu
+# faiss-gpu
